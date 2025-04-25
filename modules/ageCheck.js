@@ -5,3 +5,4 @@ export default function checkAge(age) {
     return "a minor";
   }
 }
+// if condition is something
